@@ -1,0 +1,81 @@
+@font-face{
+	src: url(../mukti/mukti/Mukti-Book.ttf);
+	font-family:"Mukti";
+}
+
+.messi-img {
+	text-align:center;
+	background:#e2ece9;
+}
+.ronaldo-img {
+	text-align:center;
+	background:#e2ece9;
+}
+body {
+	background : #e9ecef;
+}
+h3 {
+	text-align:center;
+	background:#e2ece9;
+}
+.player-info{
+	border: 1px solid black;
+	background:#b7b7a4;
+	padding:15px;
+	height:400px;
+	overflow:auto;
+	border-radius:20px;
+}
+#MESSI>h3,#RONALDO>h3{
+	color:#606c38;
+}
+#MESSI p,#RONALDO p{
+	color:#184e77;
+}
+
+img{
+	width:200px;
+	height:250px;
+	margin:40px;
+}
+a:link{
+	color:#03045e;
+}
+a:visited{
+	color:#006d77;
+}
+a:hover{
+	color:#8d99ae;
+}
+
+h2{
+	color:#14213d;
+	background:#95d5b2;
+	text-align:center;
+}
+#votting{
+	border: 2px dashed black;
+	text-align:center;
+	margin-bottom: 40px;
+	background:#95d5b2;
+}
+h1,h2,h3,h4,h5{
+	font-family: Arial,sans-serif;
+}
+h3{
+	font-size: 30px;
+}
+p{
+	font-family:Krona One,sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
