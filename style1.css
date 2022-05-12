@@ -1,0 +1,58 @@
+body{
+	background:#caf0f8;
+	font-family:arial;
+}
+#heading~div{
+	margin-top: 50px;
+}
+#heading{
+	color:#3C6383;
+	background:#F6F7EB;
+	text-align:center;
+	font-family:arial, sans-serif;
+	padding:10px;
+}
+.image1{
+	text-align:center;
+	background:#42A2B5;
+}
+img{
+	width:300px;
+	height:auto;
+	border:1px solid black;
+	margin-top:50px;
+	margin-bottom:20px
+}
+.id{
+	font-family:arial, sans-serif;
+	border:2px solid black;
+	background:#90e0ef;
+	margin-top :40px;
+}
+.id>h3{
+	text-align:center;
+}
+
+.MESSI-STATS>table{
+	width:500px;
+	height:auto;
+	margin-left:700px;
+	margin-right:700px;
+}
+.MESSI-STATS>h2{
+	text-align:center;
+}
+.RONALDO-STATS>table{
+	width:500px;
+	height:auto;
+	margin-left:600px;
+	margin-right:700px;
+}
+.RONALDO-STATS>h2{
+	text-align:center;
+}
+form{
+	text-align:center;
+	border:1px solid black;
+	margin-top:50px;
+}
